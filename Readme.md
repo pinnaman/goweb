@@ -1,1 +1,1 @@
-Golang web app
+Golang Concurrent Task scheduler web app.
